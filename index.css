@@ -35,7 +35,9 @@ body{
 }
 .front_color1{
     color: rgb(31, 209, 209);
-    font-weight: 200;
+    font-weight: 400;
+    padding: 0px 0px;
+    margin: 0px 0px;
 }
 .front_color2{
     background-color: #222831;
@@ -121,5 +123,5 @@ progress{
 }
 .image_alter{
     width: 100%;
-    margin: 10px 30px;
+    margin: 10px 20px;
 }
