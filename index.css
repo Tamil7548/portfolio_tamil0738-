@@ -121,5 +121,6 @@ progress{
 }
 .image_alter{
     width: 100%;
-    margin: 10px 20px;
+    margin: 10px 0px;
+    text-align: center;
 }
