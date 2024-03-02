@@ -1,0 +1,125 @@
+body{
+    background-color: #222831;
+}
+.navbar_color{
+    background-color: #222831;
+}
+.navbar_logo{
+    color: rgb(29, 233, 233);
+    font-weight: bolder;
+}
+.navbar_logo1{
+    color: rgb(112, 142, 230);
+    font-weight: bolder;
+}
+.navbar_size{
+    margin: 10px 0px;
+}
+.navbar_content{
+    color: aqua;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.navbar_icon>span{
+    background-color: white;
+    border: 1px solid rgb(31, 209, 209);
+}
+.content_front{
+    text-align: center;
+    font-size: 22px;
+    font-weight:bold;
+}
+.front_color{
+    color: white;
+    font-weight:bold;
+}
+.front_color1{
+    color: rgb(31, 209, 209);
+    font-weight: 900;
+}
+.front_color2{
+    background-color: #222831;
+    color: rgb(34, 221, 221);
+    font-weight:bold;
+    border: 2px solid white;
+}
+.skill_heading{
+    text-align: center;
+    color: rgb(34, 182, 182);
+    font-weight: bolder;
+}
+.skill_set{
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+progress{
+    width: 100%;
+    height: 10px;
+    background-color:rgb(34, 182, 182);
+    border: 1px solid rgb(33, 196, 33);
+    border-radius: 5px;
+}
+
+.education_head{
+    text-align: center;
+    color: rgb(34, 182, 182);
+    font-weight: bolder;
+}
+
+.education_box1,.education_box2,.education_box3{
+    color: white;
+    font-weight: bolder;
+    border: 5px solid rgb(34, 182, 182);
+    border-radius: 10px;
+    padding:20px 20px;
+}
+.project_head{
+    text-align: center;
+    color: rgb(34, 182, 182);
+    font-weight: bolder;
+}
+.project_image1{
+    border: 10px solid #222831;
+    border-radius: 100px;
+}
+.project_content{
+    color: white;
+    font-weight: bolder;
+}
+.project_pargraph{
+    text-align: justify;
+    color: white;
+    font-weight: bold;
+}
+.project_head1{
+    color: rgb(34, 182, 182);
+    font-weight: bolder;
+}
+.contact_id{
+    color: white;
+    font-weight: bolder;
+}
+.contact_link{
+    color: rgb(34, 182, 182);
+}
+.contact_border{
+    border: 5px solid rgb(34, 182, 182);
+    border-radius: 10px;
+    padding: 20px 30px;
+   
+}
+
+.logo_side1{
+    margin: 0px 5px;
+}
+.logo_side2{
+    margin: 0px 5px;
+}
+.logo_side3{
+    margin: 0px 5px;
+}
+.image_alter{
+    width: 100%;
+    margin: 10px 30px;
+}
