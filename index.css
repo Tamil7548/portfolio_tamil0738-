@@ -102,6 +102,7 @@ progress{
 }
 .contact_link{
     color: rgb(34, 182, 182);
+    width: 100%;
 }
 .contact_border{
     border: 5px solid rgb(34, 182, 182);
