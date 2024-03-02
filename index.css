@@ -35,9 +35,7 @@ body{
 }
 .front_color1{
     color: rgb(31, 209, 209);
-    font-weight: 100;
-    padding: 0px 0px;
-    margin: 0px 0px;
+    font-weight: bold;
 }
 .front_color2{
     background-color: #222831;
