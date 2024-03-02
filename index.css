@@ -35,7 +35,7 @@ body{
 }
 .front_color1{
     color: rgb(31, 209, 209);
-    font-weight: bold;
+    font-weight: 500;
 }
 .front_color2{
     background-color: #222831;
@@ -107,8 +107,7 @@ progress{
 .contact_border{
     border: 5px solid rgb(34, 182, 182);
     border-radius: 10px;
-    padding: 20px 30px;
-   
+    padding: 10px 30px;  
 }
 
 .logo_side1{
