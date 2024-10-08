@@ -43,6 +43,19 @@ body{
     font-weight:bold;
     border: 2px solid white;
 }
+.social-icons {
+    margin-bottom: 20px;
+  }
+  .social-icon {
+    margin-right: 25px;
+    color: #fff;
+    font-size: 35px;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    color: #00e0ff;
+  }
 .skill_heading{
     text-align: center;
     color: rgb(34, 182, 182);
